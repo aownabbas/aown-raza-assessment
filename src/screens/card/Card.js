@@ -19,7 +19,7 @@ function CardScreen() {
   return (
     <Container className="card-screen-container">
       <Typography variant="h4" className="card-heading">
-        Card Headers
+        Cards
       </Typography>
 
       <Grid container spacing={3}>
