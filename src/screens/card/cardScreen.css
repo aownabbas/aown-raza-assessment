@@ -1,0 +1,51 @@
+/* CardScreen.css */
+.card-screen-container {
+    padding: 40px 0;
+    text-align: center;
+  }
+  
+  .card-heading {
+    font-size: 28px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #333;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    /* border-bottom: 4px solid #1976d2; */
+    display: inline-block;
+    margin-bottom: 20px;
+  }
+  
+  .icon {
+    font-size: 50px !important;
+  }
+  
+  .blue {
+    color: #1976d2 !important;
+  }
+  
+  .green {
+    color: #2e7d32 !important;
+  }
+  
+  .yellow {
+    color: #f9a825 !important;
+  }
+  
+  .table-btn {
+    display: inline-block;
+    margin-top: 30px;
+    padding: 12px 24px;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    background-color: #1976d2; /* MUI primary blue */
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }

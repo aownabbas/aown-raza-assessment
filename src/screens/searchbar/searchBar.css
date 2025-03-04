@@ -1,0 +1,38 @@
+.search-container {
+    max-width: 500px;
+    margin: 40px auto;
+    text-align: center;
+  }
+  
+  .search-heading {
+    font-size: 28px;
+    font-weight: bold;
+    color: #1976d2;
+    margin-bottom: 35px;
+  }
+  
+  .search-input {
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    /* margin-top: 30px; */
+  }
+  
+  .loading-spinner {
+    margin-top: 10px;
+  }
+  
+  .suggestions-box {
+    margin-top: 10px;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  .suggestion-item {
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+  
+  .suggestion-item:hover {
+    background: #f1f1f1;
+  }
+  
